@@ -1,0 +1,33 @@
+orders: list;name: string;lastname: string;birthday: string;username: string;tipo_user:string
+50:27:81:22:8;Sebastián;Cruz;1992-01-20;sebacruzd
+2:87:91:60:3;Andrés;Fernández;1995-02-04;andresfdezc
+84:95:46:35;Joaquín;Tagle;1991-11-19;jtagle2
+80:86:38:101;Florencia;Barrios;1993-12-04;flobarrios;Trader
+45:47:14;Paula;Salvo;1997-03-19;pcsalvo
+61:82:59;Camilo;López;1991-07-05;cilopez
+40:21:98:18;Jose Manuel;Larraín;1993-12-24;jnlarrain
+;Fernando;Pieressa;1993-09-06;FernandoPieressa
+7:89:69:72:20;Raúl;Álvarez;1994-02-22;KnowYourselves
+28;Jessica;Hormazabal;1997-03-09;Arcoirisky
+39:4:6;Enzo;Tamburini;1997-12-02;entamburini
+48:99;Nicolás;Balbontín;1991-09-05;nfbalbontin
+62:17:19:44:10;Erick;Romero;1990-07-28;egromero
+56:54:11:24:41;Ignacio;Acevedo;1993-03-14;Iqacevedo
+31:92:51:29:25;Benjamín;Cárcamo;1990-10-05;fringlesinthestreet
+;Tanya;Garrido;1995-07-06;tcgarrido
+75;Felipe;Quinteros;1994-05-05;fnquinteros
+74;Stephanie;Chau;1991-04-25;stephichau
+32:70;Sebastián;Guerra;1990-07-25;sguerra2
+0;Hernán;Valdivieso;1992-12-13;hernan4444
+49;Santiago;Torres;1995-01-02;chapito96
+30:36;Isaac;Carrera;1996-06-03;ifcarrera
+;Octavio;Vera;1992-07-11;ofvera
+93:33;Alejandro;Kaminetzky;1990-05-28;akaminetzkyp
+57:77:34:78:37;Hugo;Navarrete;1990-11-06;hanavarrete
+97:71:23;Gustavo;Prudencio;1992-02-06;GustavPrudencio
+26:96;Jorge;Riesco;1994-03-15;jorgeriesco
+;Tomas;Salvadores;1994-12-14;TomasSalvadores
+83:43:55;Vicente;Juárez;1990-05-20;vijuarez
+79;Felipe;Dominguez;1997-09-19;fdominguezclaro
+;as;as;1992-12-12;butis;Trader
+;as;as;1992-12-12;as;Trader
